@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\App Android Studio\\MVVMPosts\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_post.xml",
+        "source": "D:\\App Android Studio\\MVVMPosts\\app\\src\\main\\res\\layout\\item_post.xml"
+    },
+    {
+        "merged": "D:\\App Android Studio\\MVVMPosts\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_post_list.xml",
+        "source": "D:\\App Android Studio\\MVVMPosts\\app\\src\\main\\res\\layout\\activity_post_list.xml"
+    }
+]
